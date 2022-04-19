@@ -686,6 +686,33 @@
 &gt;&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>Bacolod Pictures</title>
+        <link>https://example.com/p/bacolod-gallery/</link>
+        <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/bacolod-gallery/</guid>
+        <description>&lt;img src="https://example.com/bacolod.jpg" alt="Featured image of post Bacolod Pictures" /&gt;&lt;p&gt;&lt;img src=&#34;https://example.com/bacolod.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Masskara Festival, 2018&#34;
+	
+	
+&gt;  &lt;img src=&#34;https://example.com/bacolod2.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Neil&amp;rsquo;s 30th @ The Roosters&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
         
     </channel>
 </rss>

@@ -6,7 +6,26 @@
         <description>Recent content on LoreNeil</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>MEETING OUR ITALIAN FAMILY~</title>
+        <link>https://example.com/p/meeting-our-italian-family~/</link>
+        <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/meeting-our-italian-family~/</guid>
+        <description>&lt;img src="https://example.com/thumb.jpg" alt="Featured image of post MEETING OUR ITALIAN FAMILY~" /&gt;&lt;p&gt;We&amp;rsquo;re finally traveling to Italy, where Neil will meet Lorenzo&amp;rsquo;s family for the first time!
+Finishing our never-ending journey into getting the right travel documents and starting a new chapter of our lives.
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/baBqe770Fa0&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Our Socials</title>
         <link>https://example.com/our-socials/</link>
         <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
@@ -799,6 +818,33 @@ So Lorenzo moved to the UK and Neil back in his hometown, both looking for a job
 		class=&#34;gallery-image&#34; 
 		data-flex-grow=&#34;133&#34;
 		data-flex-basis=&#34;319px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Bacolod Pictures</title>
+        <link>https://example.com/p/bacolod-gallery/</link>
+        <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/bacolod-gallery/</guid>
+        <description>&lt;img src="https://example.com/bacolod.jpg" alt="Featured image of post Bacolod Pictures" /&gt;&lt;p&gt;&lt;img src=&#34;https://example.com/bacolod.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Masskara Festival, 2018&#34;
+	
+	
+&gt;  &lt;img src=&#34;https://example.com/bacolod2.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Neil&amp;rsquo;s 30th @ The Roosters&#34;
+	
 	
 &gt;&lt;/p&gt;
 </description>

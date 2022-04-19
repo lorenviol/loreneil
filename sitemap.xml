@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/meeting-our-italian-family~/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/videos/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/our-socials/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
@@ -14,16 +26,7 @@
     <loc>https://example.com/page/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/p/choosing-our-barong/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/videos/</loc>
     <lastmod>2022-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/p/we-are-in-manila/</loc>
@@ -64,6 +67,9 @@
   </url><url>
     <loc>https://example.com/p/batanes-gallery/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/bacolod-gallery/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/p/bacolod-gallery/</loc>
     <lastmod>2018-10-15T00:00:00+00:00</lastmod>
