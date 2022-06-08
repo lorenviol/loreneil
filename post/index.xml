@@ -6,7 +6,25 @@
         <description>Recent content in Posts on LoreNeil</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The Wedding</title>
+        <link>https://example.com/p/the-wedding/</link>
+        <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/the-wedding/</guid>
+        <description>&lt;img src="https://example.com/p/the-wedding/thumb.jpg" alt="Featured image of post The Wedding" /&gt;&lt;p&gt;Lorenzo &amp;amp; Neil - 3rd of December 2021 (Sala Rossa, Rome, Italy)&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/GOJ7vPkbnek&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
         <title>MEETING OUR ITALIAN FAMILY!</title>
         <link>https://example.com/p/meeting-our-italian-family/</link>
         <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
