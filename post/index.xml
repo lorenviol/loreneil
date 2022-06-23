@@ -6,7 +6,25 @@
         <description>Recent content in Posts on LoreNeil</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Endless Walk On Day One | NO kidding</title>
+        <link>https://example.com/p/endless-walk-on-day-one-no-kidding/</link>
+        <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/endless-walk-on-day-one-no-kidding/</guid>
+        <description>&lt;img src="https://example.com/p/endless-walk-on-day-one-no-kidding/thumb.jpg" alt="Featured image of post Endless Walk On Day One | NO kidding" /&gt;&lt;p&gt;Our first day in the amazing island of the canaries: Lanzarote!&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/efW4CniJOyc&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
         <title>The Wedding</title>
         <link>https://example.com/p/the-wedding/</link>
         <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
